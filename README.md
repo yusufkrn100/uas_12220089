@@ -15,7 +15,7 @@ conda install -c conda-forge streamlit
 ```
 ### Run
 ```
-streamlit run https://raw.githubusercontent.com/yusufkrn100/UAS/main/UAS.py
+streamlit run https://raw.githubusercontent.com/yusufkrn100/uas_12220089/main/uas_12220089.py
 ```
 ## Required packages
 - Streamlit
