@@ -40,7 +40,7 @@ if email2.endswith("@itb.ac.id"):
 
                 ############### title ###############
                 st.title("Statistik Produksi Minyak Mentah")
-                st.markdown("*Sumber data berasal dari [produksi_minyak_mentah.csv](https://github.com/yusufkrn100/coba/blob/main/produksi_minyak_mentah.csv)*")
+                st.markdown("*Sumber data berasal dari [produksi_minyak_mentah.csv](https://raw.githubusercontent.com/yusufkrn100/UAS/main/produksi_minyak_mentah.csv)*")
                 
                 ############### membuka file ###############
                 df=pd.read_csv('produksi_minyak_mentah.csv')
