@@ -288,19 +288,15 @@ if email2.endswith("@itb.ac.id"):
                                    
             else:
                 st.subheader('Email dan Password Anda telah **BENAR**, silahkan login!')
-
         else:
             st.sidebar.write('Password invalid')
             kata_login()
-
     else:
         st.sidebar.write("Email Anda invalid silahkan ketik email.")
         kata_login()
-
 elif '@' in email2:
      st.sidebar.write("Email Anda tidak terdaftar")
      kata_login()
-
 else:
      st.sidebar.write("Email Anda invalid silahkan ketik email.")
      kata_login()
