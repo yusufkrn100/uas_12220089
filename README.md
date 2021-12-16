@@ -15,7 +15,7 @@ conda install -c conda-forge streamlit
 ```
 ### Run
 ```
-streamlit run https://raw.githubusercontent.com/nurahmadi/streamlit_demo/main/transjakarta.py
+streamlit run https://raw.githubusercontent.com/yusufkrn100/UAS/main/UAS.py
 ```
 ## Required packages
 - Streamlit
