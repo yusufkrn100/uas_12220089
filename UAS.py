@@ -190,7 +190,7 @@ if email2.endswith("@itb.ac.id"):
                         left_col.pyplot(fig)
 
                         ############### Tabel Jumlah Produksi Kumulatif Terbesar ###############
-                        st.subheader('Tabel Represntasi Data')
+                        st.subheader('Tabel Representasi Data')
                         df6=pd.DataFrame({"Negara": negara_kum, "Produksi": produksi_kum}) 
                         st.dataframe(df6, width=390)
 
