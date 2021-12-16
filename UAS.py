@@ -1,7 +1,7 @@
 #Nama : Yusuf Kurniawan
 #NIM : 12220089
 #UAS Pemrograman Komputer 2021/2022
-#https://docs.streamlit.io/library/api-reference
+#https://github.com/yusufkrn100/UAS
 
 
 import pandas as pd
