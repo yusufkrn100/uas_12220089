@@ -2,7 +2,7 @@
 This repo contains a simple [streamlit](https://streamlit.io) app that shows interactive plots of some statistics about the crude oil production 1971-2015. The data are obtained from file [produksi_minyak_mentah.csv](https://raw.githubusercontent.com/yusufkrn100/UAS/main/produksi_minyak_mentah.csv)
 
 ## Check the live app
-Check out the live app [here](https://share.streamlit.io/yusufkrn100/uas/main/UAS.py). This demo is hosted with Streamlit sharing, check streamlit.io/sharing for more info.
+Check out the live app [here](https://share.streamlit.io/yusufkrn100/uas_12220089/main/uas_12220089.py). This demo is hosted with Streamlit sharing, check streamlit.io/sharing for more info.
 
 ## Run the app locally
 ### Install streamlit via pip
