@@ -2,6 +2,7 @@
 #NIM : 12220089
 #UAS Pemrograman Komputer 2021/2022
 #https://github.com/yusufkrn100/UAS
+https://share.streamlit.io/yusufkrn100/uas/main/UAS.py
 
 
 import pandas as pd
