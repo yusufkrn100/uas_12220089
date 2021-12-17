@@ -33,7 +33,8 @@ if email2.endswith("@itb.ac.id"):
     nama = email2[0:atpos]
     if nama != "":
         password=st.sidebar.text_input('Masukkan password :')
-        passw=password.lower()
+        passwo=password.lower()
+        passw=passwo.strip()
         if passw == nama:
             login=st.sidebar.checkbox('Login')
             if login==True:
